@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 3.10)
+project(BLACK_HOLE_SIM)
+
+set(CMAKE_CXX_STANDARD 17)
+
+# Encontrar bibliotecas
+find_package(glfw3 CONFIG REQUIRED)
+find_package(GLEW CONFIG REQUIRED)
+find_package(glm CONFIG REQUIRED)
+find_package(OpenGL REQUIRED)
+
+# Criar executável com todos os arquivos
+add_executable(${PROJECT_NAME} 
+    src/black_hole.cpp
+
+)
+
+# Linkar bibliotecas
+target_link_libraries(${PROJECT_NAME} PRIVATE glfw GLEW::GLEW OpenGL::GL)
+
+# Incluir diretórios do VCPKG
+target_include_directories(${PROJECT_NAME} PRIVATE ${VCPKG_INCLUDE_DIRS})

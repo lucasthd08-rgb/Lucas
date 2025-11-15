@@ -1,0 +1,10 @@
+^C:\USERS\USER\ONEDRIVE\ÁREA DE TRABALHO\NOVA PASTA (3)\BLACK_HOLE_SIMULATION\BUILD\CMAKEFILES\46C70B0025D6E321FD1B32EFCB015B03\GENERATE.STAMP.RULE
+setlocal
+C:\Users\User\Downloads\cmake-4.2.0-rc1-windows-x86_64\bin\cmake.exe "-SC:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation" "-BC:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/build/BLACK_HOLE_SIM.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

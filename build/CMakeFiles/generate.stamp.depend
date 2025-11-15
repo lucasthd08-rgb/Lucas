@@ -1,0 +1,61 @@
+# CMake generation dependency list for this directory.
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeCInformation.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeCXXInformation.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeDependentOption.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeFindDependencyMacro.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeGenericSystem.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeInitializeConfigs.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeLanguageInformation.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeRCInformation.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CheckCSourceCompiles.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CheckIncludeFile.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/CheckLibraryExists.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Compiler/MSVC-C.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Compiler/MSVC.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/FindOpenGL.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/FindPackageMessage.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/FindThreads.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Linker/MSVC-C.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Linker/MSVC-CXX.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Linker/MSVC.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Platform/Windows-Initialize.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Platform/Windows-MSVC.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Platform/Windows.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/Platform/WindowsPaths.cmake
+C:/Users/User/Downloads/cmake-4.2.0-rc1-windows-x86_64/share/cmake-4.2/Modules/SelectLibraryConfigurations.cmake
+C:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/CMakeLists.txt
+C:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/build/CMakeFiles/4.2.0-rc1/CMakeCCompiler.cmake
+C:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/build/CMakeFiles/4.2.0-rc1/CMakeCXXCompiler.cmake
+C:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/build/CMakeFiles/4.2.0-rc1/CMakeRCCompiler.cmake
+C:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/build/CMakeFiles/4.2.0-rc1/CMakeSystem.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glew/CopyImportedTargetProperties.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glew/glew-config.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glew/glew-targets-debug.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glew/glew-targets-release.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glew/glew-targets.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glew/vcpkg-cmake-wrapper.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glfw3/glfw3Config.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glfw3/glfw3Targets.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glm/glmConfig-debug.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glm/glmConfig-release.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glm/glmConfig.cmake
+C:/vcpkg-master/vcpkg-master/installed/x64-windows/share/glm/glmConfigVersion.cmake
+C:/vcpkg-master/vcpkg-master/scripts/buildsystems/vcpkg.cmake

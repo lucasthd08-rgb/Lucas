@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\OneDrive\Área de Trabalho\Nova pasta (3)\black_hole_simulation\build\CMakeFiles\46c70b0025d6e321fd1b32efcb015b03\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{052E7D98-6065-36DF-BB22-BA9D0F1EFD24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

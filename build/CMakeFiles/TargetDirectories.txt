@@ -1,0 +1,3 @@
+C:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/build/CMakeFiles/BLACK_HOLE_SIM.dir
+C:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/OneDrive/Área de Trabalho/Nova pasta (3)/black_hole_simulation/build/CMakeFiles/ZERO_CHECK.dir
